@@ -1,0 +1,30 @@
+.header {
+    height: 70px;
+    padding: 0 15px;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.header__headline {
+    width: 30%;
+}
+
+.header__headline a {
+    color: white;
+    text-decoration: none;
+}
+
+.header__nav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.header__nav-item {
+    width: content-box;
+    padding: 0 10px;
+}
+
+.header__nav-item a {
+    text-decoration: none;
+}

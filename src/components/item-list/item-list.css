@@ -1,0 +1,15 @@
+.item-list-item {
+    margin: 0;
+    width: 100%;
+    min-height: 2.5rem;
+    padding: 10px;
+}
+
+.item-list-item:hover{
+    background-color: #4d5151;
+    cursor: pointer;
+}
+
+.item-list-item:active{
+    background-color: #3b3b3b;
+}

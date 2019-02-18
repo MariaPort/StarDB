@@ -1,0 +1,15 @@
+.error-indicator {
+    width: content-box;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.error-icon {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+}
+
+.error-text {
+    margin: 0;
+}
